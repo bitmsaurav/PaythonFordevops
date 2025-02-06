@@ -1,2 +1,2 @@
 # PaythonFordevops
-PYTHON PROGRAMMING LANGUAGE WHICH IS USED FOR DEVOPS
+Python Zero to Hero for DevOps Engineers
